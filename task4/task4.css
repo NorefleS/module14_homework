@@ -1,0 +1,15 @@
+.task4 {
+    width: 500px;
+    margin: 200px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.input1, .input2 {
+    height: 20px;
+}
+
+.button {
+    height: 50px;
+}

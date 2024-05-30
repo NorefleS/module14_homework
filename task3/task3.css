@@ -1,0 +1,26 @@
+.task3 {
+    width: 500px;
+    margin: 200px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.input {
+    height: 20px;
+}
+
+.button {
+    height: 50px;
+}
+
+.card {
+    width: 200px;
+    margin: 20px;
+}
+  
+.card-image {
+    display: block;
+    width: 200px;
+    height: 150px;
+}
